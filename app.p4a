@@ -1,0 +1,1 @@
+--dist_name=pattebaaz --private . --package=com.org.pattebaaz --name pattebaaz --bootstrap=sdl2 --requirements=python3,kivy --arch=armeabi-v7a --sdk_dir /Users/shashank/Library/Android/sdk --ndk_dir /Users/shashank/Library/Android/android-ndk-r21b --android_api 28 --ndk_version r21b --ndk-api 21 --version 0.0.1
